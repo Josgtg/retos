@@ -8,3 +8,5 @@ Download the password checker here and you'll need the encrypted flag in the sam
 ## Solución
 
 El código contenía la contraseña hardcodeada dentro.
+
+picoCTF{545h_r1ng1ng_56891419}

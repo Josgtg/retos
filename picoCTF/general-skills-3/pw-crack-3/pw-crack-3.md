@@ -9,3 +9,5 @@ There are 7 potential passwords with 1 being correct. You can find these by exam
 ## Solución
 
 El archivo contenía una serie de contraseñas posibles. Se probaron estas contraseñas hasta que una resultó.
+
+picoCTF{m45h_fl1ng1ng_6f98a49f}
