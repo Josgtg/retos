@@ -14,6 +14,8 @@ Inspeccionamos este archivo con el objetivo de arreglar el formato. Las correcci
 
 Después de estos cambios, fue posible abrir la imagen y ver la flag dentro.
 
+`picoCTF{qu1t3_a_v13w_2020}`
+
 ## Referencias
 
 [Formato de archivo BMP en wikipedia](https://en.wikipedia.org/wiki/BMP_file_format)
